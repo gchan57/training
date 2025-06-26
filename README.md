@@ -1,1 +1,3 @@
-Java program from basics to dsa day
+->Java program from basics to dsa 
+->day(1-5) basics and OOPS
+->day(6-9) DSA
