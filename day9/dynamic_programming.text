@@ -1,0 +1,10 @@
+ways->
+     --> Memoization:
+        *Top-down approach
+        *Stores the results of function calls in a table.
+        *Recursive implementation
+     --> Tabulation:
+        *Bottom-up approach
+        *Stores the results of subproblems in a table
+        *Iterative implementation
+        
