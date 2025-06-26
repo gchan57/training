@@ -1,4 +1,4 @@
-//String upper to lower lower to upper
+//String upper to lower lower to upper program
 import java.util.*;
 public class day21{
 public static void main(String[] args){
