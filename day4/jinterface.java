@@ -5,7 +5,7 @@
 //class interface inherit --> implements
 //class class inherit --->extends
 //interface interface --->extends
-package day3;//folder
+package day3;//folder error because it is not created as pakage but as folder
 import day3.day34; //class or file in java
 interface Parent{
     public void hi();
